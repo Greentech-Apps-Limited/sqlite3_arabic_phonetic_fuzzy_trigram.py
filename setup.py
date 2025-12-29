@@ -24,7 +24,7 @@ from setuptools import Extension
 log = logging.getLogger(__name__)
 
 PACKAGE_NAME = "sqlite3_arabic_phonetic_fuzzy_trigram"
-ARABIC_TOKENIZER_VERSION = "0.0.2"
+ARABIC_TOKENIZER_VERSION = "0.0.3"
 VERSION = "3.46.0"
 
 SHORT_DESCRIPTION = "sqlite3_arabic_phonetic_fuzzy_trigram with custom sqlite3"
