@@ -8,4 +8,4 @@
 #define ARABIC_TOKENIZER_VERSION "0.1.0"
 #endif
 
-#endif /* SQLEAN_H */
+#endif
